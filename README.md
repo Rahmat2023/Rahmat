@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahmat2023
+- 👋 Hi, I’m @Rahmat
 - 👀 I’m interested in becoming a Data/Financial Analyst
   - 🌱 I’m currently learning SQL
 
